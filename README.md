@@ -1,7 +1,7 @@
 <h1 align="center">MUHAMMAD ISMAIL</h1>
 <h3 align="center">Future Programmer from Pakistan.</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Ismail812git/Ismail812git/blob/main/4236d00b6df31c5c1dab3566fa61ff3c.gif">
-<p align="left"> <img src="4236d00b6df31c5c1dab3566fa61ff3c.gif" /> </p>
+<!-- <p align="left"> <img src="4236d00b6df31c5c1dab3566fa61ff3c.gif" /> </p> -->
 
 - 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
 
