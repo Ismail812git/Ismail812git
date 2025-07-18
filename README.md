@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligece, Machine Learning and Deep Learning**
 
-- 💬 Ask me about **  WEB DEVELOPMENT**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - ⚡ Fun fact **WHEN YOU ARE WORKING DO YOUR WORK & WHEN YOUARE FREE ENJOY YOUR LIFE 😅**
 
